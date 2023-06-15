@@ -99,5 +99,4 @@ You can see the dashboard below and you can access the document by clicking this
 * Many employees come from the state of Ohio.
 * The percentage of employee changes decreased in 2003, 2005, 2006 and increased again until 2020.
 * The longest average tenure in the Auditing department is 10 years.
-* You can see the sql query in this **[LINK](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)
-**
+* You can see the sql query in this [LINK](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)
