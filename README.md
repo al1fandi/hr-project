@@ -30,7 +30,7 @@ We can see the raw dataset below, you can view the raw data at this **[LINK](htt
 6. Add ‘age’ column
 7. Add values to ‘age’ column
 
-Clean dataset
+Clean dataset **[LINK](https://github.com/al1fandi/HR_Project/blob/4ce6676f441c097e2e675c256776c1505feb47bd/table/cleaned_data.csv)**
 
 ![clean_capture](https://github.com/al1fandi/HR_Project/blob/main/image/clean_capture.png?raw=true)
 
