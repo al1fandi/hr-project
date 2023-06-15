@@ -1,6 +1,9 @@
 # HR - DATA ANALYSIS PROJECT
 
 # Project overview
+* This project explores the distribution of employees in a company.
+* The distribution of employees is based on age, gender, race, job title, department, termination rate, work location, work duration, and place of origin. 
+* The tools used in this project are MySQL and Tableau.
 
 # Objectives:
 ## Questions that will drive the analysis:
@@ -81,10 +84,18 @@ The sections that I displayed include:
 5. Employee origin distribution
 6. Work location distribution
 
-You can see the dashboard below and you can access the document by clicking this [LINK](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link).
+You can see the dashboard below and you can access the document by clicking this **[LINK](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
 
 ![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
 
 # Conclusion
-
-
+* There are more male employees, but the number of male and female employees does not differ much.
+* The age range of most employees is 25-34.
+* 74% of employees work in the head office, and some are remote.
+* The average length of service for employees is 7 years.
+* Out of a total of 14, there is only 1 department that has the most female employees, the rest are dominated by male.
+* The job title 'Research Assistant II' has the highest number of employees. 
+* Auditing is the department that has the most terminations.
+* Many employees come from the state of Ohio.
+* The percentage of employee changes decreased in 2003, 2005, 2006 and increased again until 2020.
+* The longest average tenure in the Auditing department is 10 years.
