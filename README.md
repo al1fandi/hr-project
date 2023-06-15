@@ -71,7 +71,20 @@ This analysis was conducted using MySQL and data visualization using Tableau con
 ![11](https://github.com/al1fandi/HR_Project/blob/main/image/11.png?raw=true)
 
 # Visualization:
+Finally came to the final part. I visualized the analysis results using Tableau Public. 
+
+The sections that I displayed include:
+1. Gender distribution
+2. Age distribution
+3. Termination rates
+4. Employee turnover
+5. Employee origin distribution
+6. Work location distribution
+
 You can see the dashboard below and you can access the document by clicking this [LINK](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link).
 
 ![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
+
+# Conclusion
+
 
