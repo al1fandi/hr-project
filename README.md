@@ -18,6 +18,7 @@
 
 # Cleaning and preparation:
 We can see the raw dataset below, you can view the raw data at this **[LINK](https://github.com/al1fandi/HR_Project/blob/03a454e8a274b90ac5bce4176399c9bde9fdd867/table/raw_data_hr.csv)**. The date column did not display the appropriate format, so the dataset had to be cleaned and prepared for the analysis process.
+
 ![raw_capture](https://github.com/al1fandi/HR_Project/blob/main/image/raw_capture.png?raw=true)
 
 ## The activities performed were the following:
@@ -30,6 +31,7 @@ We can see the raw dataset below, you can view the raw data at this **[LINK](htt
 7. Add values to ‘age’ column
 
 Clean dataset
+
 ![clean_capture](https://github.com/al1fandi/HR_Project/blob/main/image/clean_capture.png?raw=true)
 
 # Data analysis:
