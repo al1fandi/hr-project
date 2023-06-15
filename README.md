@@ -71,5 +71,7 @@ This analysis was conducted using MySQL and data visualization using Tableau con
 ![11](https://github.com/al1fandi/HR_Project/blob/main/image/11.png?raw=true)
 
 # Visualization:
-You can see the dashboard below and you can access the document by clicking this LINK.
+You can see the dashboard below and you can access the document by clicking this [LINK](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link).
+
+![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
 
